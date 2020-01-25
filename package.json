@@ -1,9 +1,9 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Kouhai Bot",
+  "description": "bot",
   "version": "0.0.0",
   "main": "bot.js",
-  "scripts": {
+  "scripts": { 
     "start": "node bot.js"
   },
   "dependencies": {
